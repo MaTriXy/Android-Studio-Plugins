@@ -83,6 +83,7 @@ Robin is a logging library for Bundle data passed between Activities and fragmen
 | SVG2VectorDrawable                          |  https://github.com/misakuo/svgtoandroid
 | Android Drawable Importer                   |  https://github.com/winterDroid/android-drawable-importer-intellij-plugin
 | Vector Drawable Thumbnails                  |  https://plugins.jetbrains.com/plugin/10741-vector-drawable-thumbnails
+| ChroMATERIAL                                |  https://github.com/ciscorucinski/ChroMATERIAL
 
 
 ### Debugging
@@ -95,7 +96,7 @@ Robin is a logging library for Bundle data passed between Activities and fragmen
 | Jetbrains-Wakatime                          |  https://github.com/wakatime/jetbrains-wakatime
 | Android Wifi Plugin                         |  https://github.com/pedrovgs/AndroidWiFiADB
 | QA Plug                                     |  https://plugins.jetbrains.com/plugin/4594-qaplug
-
+| RobotQA Remote Debugging on Cloud Devices   |  https://github.com/robotqa/Android-Studio-Plugin-for-Debugging
 
 ### Utilities
 
@@ -110,6 +111,8 @@ Robin is a logging library for Bundle data passed between Activities and fragmen
 | Scala                                       |  https://plugins.jetbrains.com/plugin/1347-scala
 | ADB Wifi                                    |  https://github.com/layerlre/ADBWIFI
 | String Manipulation                         |  https://github.com/krasa/StringManipulation
+| Android localization                        |  https://github.com/Airsaid/AndroidLocalizePlugin
+| Inspire to write code                       |  https://github.com/Airsaid/InspireWritingPlugin
 
 ### Tools
 
@@ -118,7 +121,7 @@ Robin is a logging library for Bundle data passed between Activities and fragmen
 | GenyMotion                                  |  https://www.genymotion.com/plugins/
 | Git Flow Integration for Intellij           |  https://github.com/OpherV/gitflow4idea/
 | SonarLint                                   |  https://plugins.jetbrains.com/plugin/7973-sonarlint
-
+| Spotless                                    |  https://github.com/diffplug/spotless
 
 ### Contributing to this Repo
 If you feel something is missing. Create a pull request and Dive In.
